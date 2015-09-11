@@ -27,8 +27,7 @@ To build this repository, complete the following steps:
 5. Download this repository. I will refer to it as "TiledBacon".
 6. Go to the "Bacon2D/3rdparty" directory.
 7. Copy "Box2D" to "Bacon2D/3rdparty" directory.
-8. Go to "Tiled/src/libtiled" and open the "libtiled.pri" file. Append the following flag to the end of the file:
-	DEFINES += TILED_LIBRARY
+8. Go to "Tiled/src/libtiled" and open the "libtiled.pri" file. Append the following flag to the end of the file: DEFINES += TILED_LIBRARY
 9. Go to "Tiled/src/libtiled". Rename "layer.cpp" and "imagelayer.cpp" as "tiled_layer.cpp" and "tiled_imagelayer.cpp" respectively. (The reason is stated below.)
 10. Go to "Tiled/src" and copy "libtiled" to "Bacon2D/3rdparty".
 11. Go to "TiledBacon" and copy the "tmx" folder to "Bacon2D/src".
@@ -108,6 +107,8 @@ TODO
 * Support layer visibility and opacity.
 * Show error messages for tiled layers or objects that do not exist.
 * Isometric maps
+* Examples
+* Proper documentation
  
 Please report all bugs. 
 Also, I am FAR FROM perfect. If you see anything that can be done better, please notify me.
