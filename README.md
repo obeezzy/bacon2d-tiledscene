@@ -8,7 +8,7 @@ It is also important that I acknowledge that some of the code I used was obtaine
 =====
 BUILD
 =====
-1.1) Dependencies
+# Dependencies
 * Qt5
   	Qt5 source repository: https://qt.gitorious.org/qt/qt5
 * Bacon2D
@@ -18,7 +18,7 @@ BUILD
 * Tiled
 	Tiled source repository: https://github.com/bjorn/tiled
 
-1.2) Building
+# Building
 To build this repository, complete the following steps:
 1. Download, build and install Qt5 (www.qt.io/download/).
 2. Download Bacon2D. I will refer to this folder as "Bacon2D" henceforth.
@@ -78,10 +78,10 @@ TiledObject Properties
 * int index: The current position of collision. Can also be set to a new position.
 
 TiledObject Methods
-bool next(): Next object in collision list.
-bool previous(): Previous object in collision list.
-void reset():  Reset collision list current index to -1 (a position before the first object).
-string getProperty(name): Used to get property of object with property name "name".
+* bool next(): Next object in collision list.
+* bool previous(): Previous object in collision list.
+* void reset():  Reset collision list current index to -1 (a position before the first object).
+* string getProperty(name): Used to get property of object with property name "name".
 
 ================================
 NOTES CONCERNING THIS REPOSITORY
