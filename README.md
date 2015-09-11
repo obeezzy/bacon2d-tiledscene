@@ -52,7 +52,7 @@ To use this version of Bacon2D is fairly simple. Just create a TiledScene QML ob
 ==========
 COLLISIONS
 ==========
-For this library extension, I use the word "collision" to refer to two map objects in a TMX map that have the same name and type. This is useful when you want to treat each map object in the same manner.
+For this library extension, I use the word "collision" to refer to two or more map objects in a TMX map that have the same name and type. This is useful when you want to treat each map object in the same manner.
 
 =============
 DOCUMENTATION
