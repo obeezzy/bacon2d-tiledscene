@@ -1,9 +1,6 @@
 # bacon2d-tiledscene
 Extension for Bacon2D that supports level loading from .TMX files
 
-========================
-TILED SCENE FOR BACON2D
-========================
 This is an extension of the Bacon2D game engine (created by Rodrigo Goncalves de Oliveira and Roger Felipe Zanoni da Silva) that supports level loading from .tmx files. This is actually a proposed feature for Bacon2D 2.0, but because of my impatience, I decided to try it out.
 Currently, I am working on generating documentation and examples for this project, although I have used it for my personal game development.
 It is also important that I acknowledge that some of the code I used was obtained from a particular fork of Bacon2D called "bacon2d-tiledmap". (I can't remember the url.)
