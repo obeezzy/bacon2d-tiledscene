@@ -1,7 +1,0 @@
-<RCC>
-<qresource prefix="/">
-<file alias="main.qml">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\layerscroll\main.qml</file>
-<file alias="astronaut.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\layerscroll\astronaut.png</file>
-<file alias="sky.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\layerscroll\sky.png</file>
-</qresource>
-</RCC>
