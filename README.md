@@ -4,7 +4,7 @@ This is an extension of the Bacon2D game engine (created by Rodrigo Goncalves de
 
 Currently, I am working on writing examples and improving the documentation, although I have used it for my personal game development and it works so far.
 
-It is also important that I acknowledge that some of the code I used was obtained from a particular fork of Bacon2D called "bacon2d-tiledmap". (I can't remember the url.)
+It is also important that I acknowledge that some of the code I used was obtained from a particular fork of Bacon2D called _bacon2d-tiledmap_. (I can't remember the url.)
 
 ## Build
 ### 1.1) Dependencies
