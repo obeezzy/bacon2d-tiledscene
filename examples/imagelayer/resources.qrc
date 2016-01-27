@@ -1,0 +1,7 @@
+<RCC>
+<qresource prefix="/">
+<file alias="main.qml">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\imagelayer\main.qml</file>
+<file alias="sliding.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\imagelayer\sliding.png</file>
+<file alias="large_enough.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\imagelayer\large_enough.png</file>
+</qresource>
+</RCC>

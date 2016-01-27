@@ -1,0 +1,5 @@
+Compiling this library had a few hassels:
+1. The TILED_LIBRARY flag must be set for "DEFINES" in the .pri file.
+2. QMake cannot tell the difference between two classes with the same name in two different namespaces. In the case of Bacon2D and libtiled, this would cause clashes with "Layer" and "ImageLayer", because both are defined in both libraries.
+In order to resolve that, I had to append "tiled_" to each cpp filename. So instead of layer.cpp and imagelayer.cpp for the libtiled class, it is tiled_layer.cpp and tiled_imagelayer.cpp respectively. This was the only way I could resolve the ANNOYING problem.
+3. Updated the plugins.cpp class. Added the TiledScene class, the TiledLayer class and TiledObject class.

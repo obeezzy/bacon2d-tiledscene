@@ -1,0 +1,10 @@
+<RCC>
+<qresource prefix="/">
+<file alias="main.qml">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\parallax_layers\main.qml</file>
+<file alias="images/moon.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\parallax_layers\images\moon.png</file>
+<file alias="images/planet.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\parallax_layers\images\planet.png</file>
+<file alias="images/rocketship.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\parallax_layers\images\rocketship.png</file>
+<file alias="images/space.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\parallax_layers\images\space.png</file>
+<file alias="images/stars.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\parallax_layers\images\stars.png</file>
+</qresource>
+</RCC>

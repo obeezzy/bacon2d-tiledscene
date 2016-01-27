@@ -1,0 +1,9 @@
+<RCC>
+<qresource prefix="/">
+<file alias="main.qml">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\viewport_parallax\main.qml</file>
+<file alias="images/layer_01.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\viewport_parallax\images\layer_01.png</file>
+<file alias="images/layer_02.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\viewport_parallax\images\layer_02.png</file>
+<file alias="images/moving.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\viewport_parallax\images\moving.png</file>
+<file alias="images/stopped.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\viewport_parallax\images\stopped.png</file>
+</qresource>
+</RCC>

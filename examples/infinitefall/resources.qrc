@@ -1,0 +1,7 @@
+<RCC>
+<qresource prefix="/">
+<file alias="main.qml">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\infinitefall\main.qml</file>
+<file alias="astronaut.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\infinitefall\astronaut.png</file>
+<file alias="sky.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\infinitefall\sky.png</file>
+</qresource>
+</RCC>

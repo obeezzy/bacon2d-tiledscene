@@ -1,0 +1,11 @@
+<RCC>
+<qresource prefix="/">
+<file alias="Wall.qml">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\cannon\Wall.qml</file>
+<file alias="main.qml">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\cannon\main.qml</file>
+<file alias="images/cannon.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\cannon\images\cannon.png</file>
+<file alias="images/cannon_base.png">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\cannon\images\cannon_base.png</file>
+<file alias="images/wall.jpg">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\cannon\images\wall.jpg</file>
+<file alias="sounds/cannon.wav">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\cannon\sounds\cannon.wav</file>
+<file alias="sounds/gear.wav">C:\Users\obeezzy\Documents\AllCodes\QtCreatorProjects\bacon2d-tiledscene\examples\cannon\sounds\gear.wav</file>
+</qresource>
+</RCC>
